@@ -1,0 +1,17 @@
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.deps.json
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.dll
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidad.dll
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaDatos.pdb
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\bin\Debug\net6.0-windows\CapaEntidad.pdb
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.AssemblyInfo.cs
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.csproj.CopyComplete
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.dll
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\refint\CapaNegocio.dll
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\CapaNegocio.pdb
+C:\Users\Sena\Downloads\NaturaVida-master-20220901T122113Z-001\NaturaVida-master\CapaNegocio\obj\Debug\net6.0-windows\ref\CapaNegocio.dll
